@@ -42,7 +42,8 @@ p {
   }
   li {
      list-style: none; 
-     float: left; 
+     float: left;
+    padding: 20px 40px;
 }
 .header-logo { 
   float: left; 
