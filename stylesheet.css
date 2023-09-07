@@ -9,3 +9,11 @@ p {
   font-size:20px;
   font-family:"Lucida Grande";
 }
+
+li {
+  color: #444;
+}
+
+.selected{
+  color:#ff0000;
+}
