@@ -34,3 +34,17 @@ p {
   font-size:20px;
   font-family:"luciana grande"
 }
+
+.header {
+    background-color: #26d0c9;
+    color: #fff; 
+    height: 90px; 
+  }
+  li {
+     list-style: none; 
+     float: left; 
+}
+.header-logo { 
+  float: left; 
+  font-size: 36px; 
+}
