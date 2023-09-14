@@ -48,9 +48,22 @@ p {
 .header-logo { 
   float: left; 
   font-size: 36px;
-  padding:20 px 40px;
+  padding:20px 40px;
 }
-
+.main{
+  background-color: #bdf7f1;
+  height: 600px;
+  padding: 100px 80px;
+}
+.copy-container h1 {
+  font-size:140px;
+}
+.copy-container h2 {
+  font-size:60px;
+}
+.copy-container span {
+  color: ##ff4a4a;
+}
 .footer {
   background-color: #2f5167;
   color: #fff;
