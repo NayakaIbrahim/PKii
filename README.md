@@ -10,7 +10,7 @@
       <li>Hubungi Kami</li>
     </ul>
     </div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Question_mark_%28black%29.svg/800px-Question_mark_%28black%29.svg.png">
+    <img src="https://cdn-icons-png.flaticon.com/512/3524/3524335.png">
 
 <h1>Gosip Terpanas Prodi</h1>
 <a>10 Cerita horror prodi Matematika<a>
