@@ -66,6 +66,7 @@ p {
 }
 .contents {
   height:500px;
+  margin-top: 100px;
 }
 .section-title {
   border-bottom: 2px solid #dee7ec;
@@ -73,13 +74,14 @@ p {
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
-.contents-item {
-  folat: left;
+.contents-item p {
+  float: left;
+  margin-right: 40px;
 }
 .footer {
   background-color: #2f5167;
   color: #fff;
-  height: 120px;
+  height: 270px;
 }
 .footer-logo {
   font-size:32px;
