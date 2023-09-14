@@ -1,12 +1,12 @@
 h1 {
   color: #ff0000;
-  font-size:40px;
+  font-size:40 px;
   font-family:serif;
 }
 
 p {
   color: #0000ff;
-  font-size:20px;
+  font-size:20 px;
   font-family:"Lucida Grande";
 }
 
@@ -20,33 +20,49 @@ li {
 
 h1 {
   color: #e6855e;
-  font-size:30px;
+  font-size:30 px;
   background-color:#f3f372;
-  height:80px;
-  width:200px;
+  height:80 px;
+  width:200 px;
 }
 img {
-  height:50px;
-  width:70px;
+  height:50 px;
+  width:70 px;
 }
 p {
   color: #ff0000;
-  font-size:20px;
+  font-size:20 px;
   font-family:"luciana grande"
 }
 
 .header {
     background-color: #26d0c9;
     color: #fff; 
-    height: 90px; 
+    height: 90 px; 
   }
   li {
      list-style: none; 
      float: left;
-    padding: 20px 40px;
+    padding: 20 px 40 px;
 }
 .header-logo { 
   float: left; 
-  font-size: 36px;
-  padding:20px 40px;
+  font-size: 36 px;
+  padding:20 px 40 px;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120 px;
+}
+.footer-logo {
+  font-size:32 px;
+  float: left;
+}
+.footer-list {
+  float: right;
+}
+.footer-list li{
+  padding-bottom: 20 px;
 }
